@@ -1,4 +1,4 @@
-# this is a project for Operating sistem class
+# this is a project for Operating system class
 
 to run this project:
 - npm install
